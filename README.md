@@ -1,63 +1,89 @@
-<!--
-  Profile README template for GitHub profile (place this content into a repo named exactly your GitHub username: `ebrahimmostafa133`).
-  Steps to activate: create a NEW repo named `ebrahimmostafa133` (public), add a README.md with this content, push to `main`.
--->
+# 👋 Hi there, I'm Ebrahim Mostafa  
 
-# Hi there 👋 I'm Ebrahim Mostafa
-
-
-
+🚀 **Full-Stack Software Developer | Problem Solver | Lifelong Learner**
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-- Location: Cairo, Egypt
-- Role: Software Developer (Frontend & Backend)
-- Currently: Building a full‑stack Bookstore (Angular + Node/Django)
-- Problem solver: I practice algorithms every day on LeetCode
-
----
-
-## 🧰 Tech & Tools
-
-HTML • CSS • JavaScript (ES6+) • TypeScript • C++ • Python • Java  
-Angular • RxJS • Tailwind CSS • Node.js • Express • Django • MongoDB • REST APIs  
-Git • GitHub • NPM • Docker (intro)  
+- 📍 Based in **Cairo, Egypt**
+- 💻 Full-Stack Developer (Frontend & Backend)
+- 🔨 Currently building a **Full-Stack Bookstore App** (Angular + Node/Django)
+- 🧠 Passionate about **Data Structures & Algorithms** (daily LeetCode practice)
+- 🎯 Focused on writing **clean, scalable, and efficient code**
 
 ---
 
-## 🔭 Featured Projects
+## 🛠️ Tech Stack
 
-- **Bookstore (Latest, Full-stack)**
-  — Frontend + Backend currently in progress. Live demo: https://book-store-front-end-angular.vercel.app/login  
-- **Social Media App**
-  — Real-time interactions and profiles. Live: https://social-g7h6qmykg-ebrahim-mostafas-projects.vercel.app  
-- **E-commerce Project**
-  — Full store flow (cart, checkout). Live: https://heroic-semifreddo-f8b898.netlify.app/  
+### 💡 Languages
+`HTML` • `CSS` • `JavaScript (ES6+)` • `TypeScript` • `C++` • `Python` • `Java`
 
-More projects: https://ebrahimmostafa133.github.io/Portfolio_ITI_Labs/
+### ⚙️ Frameworks & Libraries
+`Angular` • `RxJS` • `Tailwind CSS` • `Node.js` • `Express` • `Django`
+
+### 🗄️ Databases & APIs
+`MongoDB` • `REST APIs`
+
+### 🧰 Tools & Platforms
+`Git` • `GitHub` • `NPM` • `Docker (Basics)`
 
 ---
 
-## 📈 Live Stats
+## 🚀 Featured Projects
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebrahimmostafa133&show_icons=true&hide_border=true&theme=dark" alt="Ebrahim's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimmostafa133&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
+### 📚 Bookstore App *(Latest - Full Stack)*
+> A modern full-stack bookstore application with authentication, product management, and responsive UI  
+🔗 **Live Demo:** https://book-store-front-end-angular.vercel.app/login  
+
+---
+
+### 💬 Social Media App
+> Real-time social platform with user profiles and interactions  
+🔗 **Live:** https://social-g7h6qmykg-ebrahim-mostafas-projects.vercel.app  
+
+---
+
+### 🛒 E-Commerce App
+> Complete shopping experience (cart, checkout, and more)  
+🔗 **Live:** https://heroic-semifreddo-f8b898.netlify.app/  
+
+---
+
+### 🌐 Portfolio
+🔗 https://ebrahimmostafa133.github.io/Portfolio_ITI_Labs/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ebrahimmostafa133&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimmostafa133&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p>
-  <!-- LeetCode card (live) -->
-  <img src="https://leetcard.jacoblin.cool/Benzema_9?theme=dark" alt="LeetCode card - Benzema_9" />
+---
+
+## 🧠 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Benzema_9?theme=dark&ext=heatmap" />
 </p>
 
 ---
 
-## ✉️ Contact
+## 🤝 Let's Connect
 
-- Email: ibrahimmostafa9939@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/ebrahim-mostafa-315756243/  
-- Portfolio: https://ebrahimmostafa133.github.io/Portfolio_ITI_Labs/  
+- 📧 Email: **ibrahim.mostafa9939@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/ebrahim-mostafa-315756243/
+- 🌍 Portfolio: https://ebrahimmostafa133.github.io/Portfolio_ITI_Labs/
 
 ---
+
+## ⚡ Fun Fact
+
+> I enjoy turning complex problems into simple, elegant solutions ✨
+
+---
+
+⭐ *Feel free to explore my repositories and don't forget to star the ones you like!*
