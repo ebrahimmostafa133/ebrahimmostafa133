@@ -29,9 +29,12 @@ Git • GitHub • NPM • Docker (intro)
 
 ## 🔭 Featured Projects
 
-- **Bookstore (Latest, Full-stack)** — Frontend + Backend currently in progress. Live demo: https://book-store-front-end-angular.vercel.app/login  
-- **Social Media App** — Real-time interactions and profiles. Live: https://social-g7h6qmykg-ebrahim-mostafas-projects.vercel.app  
-- **E-commerce Project** — Full store flow (cart, checkout). Live: https://heroic-semifreddo-f8b898.netlify.app/  
+- **Bookstore (Latest, Full-stack)**
+  — Frontend + Backend currently in progress. Live demo: https://book-store-front-end-angular.vercel.app/login  
+- **Social Media App**
+  — Real-time interactions and profiles. Live: https://social-g7h6qmykg-ebrahim-mostafas-projects.vercel.app  
+- **E-commerce Project**
+  — Full store flow (cart, checkout). Live: https://heroic-semifreddo-f8b898.netlify.app/  
 
 More projects: https://ebrahimmostafa133.github.io/Portfolio_ITI_Labs/
 
