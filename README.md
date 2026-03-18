@@ -75,13 +75,18 @@
 
 ## 🔭 Featured Projects
 
-| Project | Description | Live Link |
-|---------|-------------|-----------|
-| **[Bookstore](https://book-store-front-end-angular.vercel.app/login)** | A Full-Stack Bookstore built with Angular, integrating Node.js/Django backend functionality. | [Live Demo 🔗](https://book-store-front-end-angular.vercel.app/login) |
-| **[Social Media App](https://social-g7h6qmykg-ebrahim-mostafas-projects.vercel.app)** | Complete social media web application enabling real-time interactions and user profiles. | [Live Demo 🔗](https://social-g7h6qmykg-ebrahim-mostafas-projects.vercel.app) |
-| **[E-commerce Project](https://heroic-semifreddo-f8b898.netlify.app/)** | Full store flow featuring cart management and checkout features. | [Live Demo 🔗](https://heroic-semifreddo-f8b898.netlify.app/) |
+| Icon | Project | Description | Live Link |
+|:---:|---------|-------------|-----------|
+| 📚 | **[Bookstore](https://book-store-front-end-angular.vercel.app/login)** | A Full-Stack Bookstore built with Angular, integrating Node.js/Django backend functionality. | [Live Demo 🔗](https://book-store-front-end-angular.vercel.app/login) |
+| 🧑‍🤝‍🧑 | **[Social Media App](https://social-g7h6qmykg-ebrahim-mostafas-projects.vercel.app)** | Complete social media web application enabling real-time interactions and user profiles. | [Live Demo 🔗](https://social-g7h6qmykg-ebrahim-mostafas-projects.vercel.app) |
+| 🛒 | **[E-commerce Project](https://heroic-semifreddo-f8b898.netlify.app/)** | Full store flow featuring cart management and checkout features. | [Live Demo 🔗](https://heroic-semifreddo-f8b898.netlify.app/) |
+| 📝 | **[Note Project](https://note-page-uqwi-46ucbsa65-ebrahim-mostafas-projects.vercel.app/)** | Online note-taking app with CRUD functionality to create, edit, and delete notes. | [Live Demo 🔗](https://note-page-uqwi-46ucbsa65-ebrahim-mostafas-projects.vercel.app/) |
+| 🔖 | **[Bookmarker](https://ebrahimmostafa133.github.io/Frontend-Diploma/JS-Assignment3/)** | CRUD app to manage and organize favorite websites using local storage. | [Live Demo 🔗](https://ebrahimmostafa133.github.io/Frontend-Diploma/JS-Assignment3/) |
+| 🌤️ | **[Weather App](https://ebrahimmostafa133.github.io/Frontend-Diploma/JS-Assignment5/)** | Fetches and displays real-time weather data from an external API. | [Live Demo 🔗](https://ebrahimmostafa133.github.io/Frontend-Diploma/JS-Assignment5/) |
+| 🍽️ | **[Mealify](https://ebrahimmostafa133.github.io/Frontend-Diploma/Assignment6/)** | Responsive restaurant website showcasing menu items and gallery. | [Live Demo 🔗](https://ebrahimmostafa133.github.io/Frontend-Diploma/Assignment6/) |
+| 💬 | **[Quote Generator](https://ebrahimmostafa133.github.io/Frontend-Diploma/JS-Assignment2/)** | Random quote fetcher application using API integration. | [Live Demo 🔗](https://ebrahimmostafa133.github.io/Frontend-Diploma/JS-Assignment2/) |
 
-> Check out more projects in my **[Portfolio](https://ebrahimmostafa133.github.io/Portfolio_ITI_Labs/)**!
+> Check out more details in my **[Portfolio](https://ebrahimmostafa133.github.io/Portfolio_ITI_Labs/)**!
 
 ---
 
@@ -96,7 +101,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/Benzema_9/">
-    <img src="https://leetcard.jacoblin.cool/Benzema_9?theme=unicorn&font=Fira%20Code&ext=activity" alt="LeetCode status" />
+    <img src="https://leetcard.jacoblin.cool/Benzema_9?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode status" />
   </a>
 </div>
 
