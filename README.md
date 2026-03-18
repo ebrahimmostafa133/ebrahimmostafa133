@@ -1,75 +1,107 @@
-# 🚀 Ebrahim Mostafa
-### **Full-Stack Software Developer | Problem Solver | Lifelong Learner**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!%20I'm%20Ebrahim%20👋&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Location-Cairo,%20Egypt-E11D48?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode-Daily%20Practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-0077B5?style=flat-square" />
-</p>
-
----
-
-### 🌟 About Me
-- 💻 **Full-Stack Specialist**: Crafting seamless experiences from frontend pixel-perfection to robust backend logic.
-- 🏗️ **Currently Building**: A high-performance **Full-Stack Bookstore** using Angular & Node.js/Django.
-- 🧠 **DSA Enthusiast**: I treat LeetCode like a morning coffee—essential for staying sharp.
-- 🎯 **Philosophy**: Code is for humans to read, and only incidentally for machines to execute.
-
----
-
-### 🛠️ Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Frontend** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-
----
-
-### 🚀 Featured Projects
-
-#### 📚 [Full-Stack Bookstore](https://book-store-front-end-angular.vercel.app/login)
-> A modern commerce platform featuring secure authentication, state management with RxJS, and a responsive UI.
-- **Tech**: Angular, Node.js, Express, MongoDB.
-
-#### 💬 [Real-Time Social Media](https://social-g7h6qmykg-ebrahim-mostafas-projects.vercel.app)
-> Scalable social platform enabling real-time user interactions and dynamic profiling.
-- **Tech**: JavaScript, REST APIs, CSS3.
-
-#### 🛒 [E-Commerce Hub](https://heroic-semifreddo-f8b898.netlify.app/)
-> High-conversion shopping experience with optimized cart logic and checkout flows.
-
----
-
-### 📊 Performance Metrics
+<h3 align="center">Software Developer (Frontend & Backend) from Cairo, Egypt 🇪🇬</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebrahimmostafa133&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimmostafa133&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Benzema_9?theme=dark&ext=heatmap" width="80%" />
+  <a href="https://www.linkedin.com/in/ebrahim-mostafa-315756243/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ibrahimmostafa9939@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://ebrahimmostafa133.github.io/Portfolio_ITI_Labs/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com/Benzema_9/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
 
 ---
 
-### 🤝 Connect With Me
+## 🚀 About Me
 
+- 🔭 I’m currently building a **Full-Stack Bookstore** using `Angular` and `Node`/`Django`.
+- 🤔 I’m always striving to improve my **problem-solving** skills by practicing algorithms every day on LeetCode.
+- 🌱 I’m constantly learning and exploring new technologies in web development and software engineering.
+- ⚡ Fun fact: I love tackling complex backend logic and crafting seamless, intuitive user experiences!
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### Languages
 <p align="left">
-<a href="mailto:ibrahim.mostafa9939@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ebrahim-mostafa-315756243/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://ebrahimmostafa133.github.io/Portfolio_ITI_Labs/"><img src="https://img.shields.io/badge/Portfolio-252a34?style=for-the-badge&logo=konva&logoColor=61dafb" /></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=appveyor&logoColor=white" alt="REST API" />
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> I'm a Linux enthusiast (Ubuntu) who believes that the terminal is the most powerful tool ever created. When I'm not coding, I'm likely optimizing my workflow or diving into a new C++ challenge.
+## 🔭 Featured Projects
+
+| Project | Description | Live Link |
+|---------|-------------|-----------|
+| **[Bookstore](https://book-store-front-end-angular.vercel.app/login)** | A Full-Stack Bookstore built with Angular, integrating Node.js/Django backend functionality. | [Live Demo 🔗](https://book-store-front-end-angular.vercel.app/login) |
+| **[Social Media App](https://social-g7h6qmykg-ebrahim-mostafas-projects.vercel.app)** | Complete social media web application enabling real-time interactions and user profiles. | [Live Demo 🔗](https://social-g7h6qmykg-ebrahim-mostafas-projects.vercel.app) |
+| **[E-commerce Project](https://heroic-semifreddo-f8b898.netlify.app/)** | Full store flow featuring cart management and checkout features. | [Live Demo 🔗](https://heroic-semifreddo-f8b898.netlify.app/) |
+
+> Check out more projects in my **[Portfolio](https://ebrahimmostafa133.github.io/Portfolio_ITI_Labs/)**!
 
 ---
 
-⭐ *Feel free to explore my repositories and don't forget to star the ones you like!*
+## 📈 GitHub & Coding Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ebrahimmostafa133&show_icons=true&hide_border=true&theme=tokyonight" alt="Ebrahim's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimmostafa133&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://leetcode.com/Benzema_9/">
+    <img src="https://leetcard.jacoblin.cool/Benzema_9?theme=unicorn&font=Fira%20Code&ext=activity" alt="LeetCode status" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
